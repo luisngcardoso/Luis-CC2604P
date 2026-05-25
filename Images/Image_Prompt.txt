@@ -1,0 +1,314 @@
+3 social media 
+3 EDMS
+3 banners
+
+
+SOCIAL MEDIA:
+FIRST IMAGE
+PROMPT: i am are hired by ABC Events as an intern and my task is to help in organising live 
+events at shopping malls.
+My event is, "Keep Burning: An event focusing on sports and fitness."  Please generate an image of people doing exercise
+
+PROMPT: Make 4 prompts for these 2 pictures . The second prompt for each image must be more detailed
+Image 1 – Prompt 1
+
+A high-energy fitness event at a modern shopping mall, featuring a group of people doing exercises together on workout mats. A female fitness instructor in black sportswear leads lunges while participants follow behind her. Large bold text saying “KEEP BURNING” appears on the side with an orange and black sporty theme, cinematic lighting, realistic photography style, energetic atmosphere, social media poster design.
+
+Image 1 – Prompt 2 (More Detailed)
+
+A realistic promotional poster for a live sports and fitness event called “KEEP BURNING,” set inside an outdoor shopping mall plaza during daytime. In the foreground, a confident female fitness instructor wearing black athletic wear performs lunges while multiple participants exercise on mats behind her. The environment includes tall mall buildings, event banners, water bottles, and spectators in the background. Bold white and orange typography displays motivational slogans like “Move Your Body” and “Challenge Your Limits.” Cinematic lighting, ultra-detailed textures, sharp focus, dynamic composition, modern social media advertising style, vibrant orange and black color palette, high-energy mood, 4K realistic photography.
+
+
+SECOND IMAGE
+Image 2 – Prompt 1
+
+A vibrant fitness event happening inside a shopping mall with people doing squats and workout exercises while following a trainer on stage. Large “KEEP BURNING” text with sporty orange and black graphics appears around the scene. Realistic event poster style with energetic lighting and motivational atmosphere.
+
+Image 2 – Prompt 2 (More Detailed)
+
+A professional sports and fitness event poster set inside a luxurious indoor shopping mall atrium. A male fitness trainer performs an energetic workout routine on a stage while a diverse crowd of participants in activewear perform squats and exercises on black mats. Huge digital banners and posters display the words “KEEP BURNING” in bold white and orange brush-style typography. The scene includes dramatic lighting, reflections from the mall interior, fitness equipment, water bottles, and an audience watching the event. Realistic photography style, ultra-detailed textures, dynamic camera angle, high contrast, motivational mood, premium social media campaign design, cinematic 4K quality.
+
+
+THIRD IMAGE
+PROMPT:i am are hired by ABC Events as an intern and your task is to help in organising live events at shopping malls. generate 1 image of people running in the running track. This is for my social media
+
+2nd PROMPT: “Create a high-energy and vibrant promotional image for a live running event held inside a modern shopping mall. Show a diverse group of energetic runners sprinting on a professional blue running track, surrounded by cheering spectators and bright event lighting. The atmosphere should feel exciting, motivational, and community-driven. Include dynamic motion blur, realistic athletic poses, and confident expressions to capture the intensity and fun of the race.
+
+Feature modern mall architecture in the background with large LED event screens, branded banners, and sponsor signage for ‘ABC Events’. Use a clean and premium sports-event aesthetic suitable for Instagram and social media marketing. The runners should wear stylish athletic outfits with race bibs, and the scene should feel lively, youthful, and inspiring.
+
+Add cinematic lighting, sharp focus on the runners in the foreground, depth of field, and vibrant blue tones to enhance the sporty atmosphere. Make the image ultra-realistic, high-resolution, professional photography style, with a wide-angle composition perfect for event promotion and social media engagement.”
+
+
+BANNER:
+FIRST IMAGE
+Prompt: i am are hired by ABC Events as an intern and your task is to help in organising live. Generate me a banner for this event which shows people exercising and promote healthy lifestyle
+
+2nd prompt:“Design a premium, high-energy promotional banner for a live fitness and healthy lifestyle event organized by ABC Events at a modern shopping mall. The banner should feature a dynamic and diverse group of people engaging in different fitness activities such as running, stretching, yoga, cycling, and functional training. Include participants of different ages and ethnicities to create an inclusive, community-focused atmosphere.
+
+Set the scene inside a luxurious contemporary shopping mall with bright natural lighting, large open spaces, glass architecture, LED digital screens, and cheering crowds in the background. Add realistic fitness event elements such as branded race tracks, workout stations, fitness booths, sponsor banners, and motivational signage featuring the ABC Events logo.
+
+Use bold, modern typography with inspiring slogans such as:
+‘LIVE STRONG. LIVE BETTER.’
+‘MOVE MORE, FEEL BETTER.’
+‘YOUR HEALTH, YOUR FUTURE.’
+
+Create a visually striking composition with cinematic lighting, energetic motion blur, vibrant blue and white color tones, and a clean professional sports-event aesthetic. Focus on creating excitement, positivity, wellness, and community spirit. The banner should feel motivational, youthful, modern, and suitable for social media campaigns, mall advertisements, website headers, and event posters.
+
+
+SECOND IMAGE
+Prompt: i am are hired by ABC Events as an intern and your task is to help in organising live. Generate me a banner for this event which encourages people to run and get first place
+
+2nd prompt: “Design an ultra-premium, high-energy promotional banner for a live running championship event organized by ABC Events inside a modern luxury shopping mall. The banner should inspire people to compete, push their limits, and strive for first place. Create an intense and motivational atmosphere that captures the excitement of crossing the finish line and achieving victory.
+
+Feature a powerful lead runner sprinting toward the finish line with determination, energy, and confidence, while other runners race closely behind. Show realistic athletic movement, strong facial expressions, sweat details, and dynamic action poses to emphasize competition and ambition. Include a dramatic finish-line moment with confetti, cheering crowds, flashing lights, and raised hands from excited spectators.
+
+Set the scene in a futuristic indoor mall environment with sleek architecture, bright LED event screens, large banners, sponsor signage, and a professional blue running track stretching through the venue. Add ABC Events branding throughout the environment, including flags, barricades, digital displays, and race bibs.
+
+Use bold cinematic typography with motivational slogans such as:
+‘RUN TODAY. WIN TOMORROW.’
+‘CHASE THE FINISH. CLAIM THE GLORY.’
+‘ONE RACE. ONE GOAL. FIRST PLACE.’
+‘EVERY STEP BRINGS YOU CLOSER TO VICTORY.’
+
+
+THIRD IMAGE
+Prompt: i am are hired by ABC Events as an intern and my task is to help in organising live events at shopping malls. My event is, "Keep Burning: An event focusing on sports and fitness." Please generate a banner to show them its fun and people winning prizes
+
+2nd prompt: A vibrant, high-energy promotional banner for a shopping mall live event called “KEEP BURNING”, organized by ABC Events, focusing on sports, fitness, fun challenges, and exciting prizes. The scene takes place inside a modern shopping mall atrium filled with energetic crowds, colorful LED lights, confetti explosions, and dynamic action.
+
+In the center, large bold graffiti-style typography says “KEEP BURNING” with fiery orange and yellow glowing effects. Around the title are athletic young adults of different ethnicities participating in fitness activities such as sprinting, jumping, lifting weights, cycling, stretching, skipping rope, and dance workouts. Their expressions are energetic, competitive, and joyful.
+
+Show several winners celebrating while holding trophies, medals, shopping vouchers, gift boxes, smartwatches, headphones, gym bags, and other attractive prizes. Include excited spectators cheering and taking photos with smartphones. Add booths, neon fitness icons, sponsor banners, and stage lighting to create the atmosphere of a real mall event.
+
+The design should feel modern, exciting, youthful, and motivating, with cinematic lighting, glowing orange and blue tones, dramatic shadows, motion blur, sparks, flame accents, and dynamic composition. Include slogans such as “Get Active. Have Fun. Win Big!” and “Participate • Compete • Win!”.
+
+Style: ultra-detailed promotional event banner, realistic photography mixed with graphic design elements, cinematic sports advertisement aesthetic, sharp focus, high contrast, professional commercial poster quality, energetic mood, 16:9 aspect ratio.
+
+
+EDM:
+FIRST IMAGE
+Prompt: A sporty EDM banner for “KEEP BURNING” with people exercising, cheering crowds, and winners holding prizes. Bright lights, energetic mood, modern design.
+
+2nd prompt: Create a high-energy EDM-style sports event poster for a fitness competition called “KEEP BURNING”. The design should feel explosive, motivational, and modern, inspired by electronic dance music festival visuals mixed with professional sports branding. Use intense neon lighting, glowing effects, cinematic contrast, and dynamic motion blur to create an adrenaline-filled atmosphere.
+
+The poster should feature:
+
+Diverse athletes actively exercising and competing in track-and-field inspired fitness activities such as sprinting, lifting weights, battle ropes, jumping, and endurance training.
+A massive cheering crowd in the background with raised hands, flashing lights, smoke cannons, LED screens, confetti, and concert-style stage lighting.
+Winners standing proudly on a podium holding trophies, medals, and prizes, celebrating victory with energetic expressions.
+Futuristic typography with the title “KEEP BURNING” in large bold glowing letters at the center.
+Modern EDM festival aesthetics with vibrant orange, electric blue, purple, pink, and fiery yellow color tones.
+Sparks, fire streaks, light trails, and energetic particle effects surrounding the athletes to symbolize power and movement.
+Fitness and motivation themes such as determination, teamwork, passion, strength, and endurance.
+A premium sports-event atmosphere similar to Nike campaign posters mixed with an EDM concert visual.
+Dramatic cinematic camera angles and ultra-detailed realistic textures.
+Include subtle urban stadium elements, giant LED screens, and floodlights for a world-class competition feel.
+The mood should be inspiring, competitive, energetic, and celebratory.
+
+Style references:
+
+EDM festival posters
+Modern esports/event banners
+Professional sports advertising campaigns
+High-contrast cinematic photography
+Futuristic neon sports branding
+
+Design style:
+ultra-detailed, photorealistic, cinematic lighting, dynamic composition, 4K quality, high contrast, vibrant neon colors, modern graphic design, action-packed scene, realistic crowd energy, motivational fitness aesthetic.
+
+SECOND IMAGE
+Prompt: A fun fitness event poster showing people doing sports activities and winning rewards at a shopping mall. Bold text, colorful lighting, exciting atmosphere.
+
+2nd prompt: Create an ultra-detailed EDM-style promotional poster for a fun fitness and sports event at a modern shopping mall called “KEEP BURNING”. The poster should combine the excitement of a music festival, a sports carnival, and a mall event into one energetic visual experience. The atmosphere must feel lively, colorful, youthful, and highly engaging, encouraging families, teenagers, and fitness lovers to join the activities.
+
+Main Scene:
+
+Set inside a massive futuristic shopping mall atrium with multiple floors, glowing LED advertisements, giant digital screens, escalators, storefronts, and bright neon decorations.
+Crowds of excited spectators cheering, taking photos, waving glow sticks, and enjoying the event from different levels of the mall.
+A live DJ stage with EDM concert lighting, laser beams, smoke machines, spotlights, and colorful visual effects creating a festival vibe.
+Bright confetti explosions, sparks, glowing particles, and motion blur effects throughout the scene to emphasize movement and excitement.
+
+Sports & Activities:
+
+Multiple people actively participating in fun sports and fitness activities such as:
+sprint races
+basketball shooting challenges
+battle ropes
+skipping rope
+obstacle courses
+treadmill races
+group workouts
+dance fitness sessions
+mini track-and-field games
+Participants should look energetic, happy, competitive, and diverse in age and ethnicity.
+Include groups of friends and families bonding together while exercising and having fun.
+
+Winning & Rewards:
+
+A central podium scene showing winners celebrating with medals, trophies, shopping vouchers, gift bags, and exciting prizes.
+Display shopping mall rewards such as:
+Nintendo Switch prizes
+shopping vouchers
+branded gift hampers
+lucky draw rewards
+Winners smiling and posing proudly while the crowd cheers behind them.
+
+Typography & Layout:
+
+Large bold glowing title text: “KEEP BURNING” placed prominently in the center.
+Futuristic EDM-inspired typography with metallic textures, neon glow, and dynamic brushstroke effects.
+Supporting phrases such as:
+“MOVE • PLAY • WIN”
+“FUN FITNESS FOR EVERYONE”
+“JOIN THE ENERGY”
+“COMPETE & WIN AMAZING PRIZES”
+Use layered graphic elements and diagonal layouts to create strong movement and intensity.
+
+Lighting & Color Palette:
+
+Strong EDM concert lighting with vibrant neon colors:
+electric blue
+fiery orange
+neon pink
+purple
+bright yellow
+High-contrast cinematic lighting with glowing reflections on the mall floor.
+Dramatic rim lighting around athletes and crowds.
+Use colorful LED screens and holographic effects for a futuristic atmosphere.
+
+Design Style:
+
+Ultra-realistic and cinematic
+Modern sports advertising mixed with EDM festival visuals
+High detail and 4K quality
+Dynamic composition with strong depth and perspective
+Energetic, motivational, fun, and youthful
+Inspired by Nike campaigns, esports event posters, and EDM festival marketing
+
+Mood & Emotion:
+
+Exciting and celebratory
+Community bonding and teamwork
+Competitive but fun
+Family-friendly sports entertainment
+Encourages participation and active lifestyles
+
+Visual Quality Keywords:
+photorealistic, cinematic lighting, ultra detailed, dynamic action, vibrant neon colors, festival atmosphere, realistic crowd, energetic motion, futuristic mall setting, premium event branding, high-energy composition, modern graphic design, sports entertainment aesthetic.
+
+THIRD IMAGE
+Prompt: An energetic sports carnival banner with fitness games, happy participants, trophies, and shopping vouchers. Vibrant colors, dynamic action, modern event style.
+
+prompt 2: Create a completely unique and modern sports carnival EDM-style event poster with a bold urban festival aesthetic instead of the usual neon fitness poster look. The design should feel fresh, youthful, and highly energetic — combining street-sports culture, music festival vibes, shopping mall excitement, and lifestyle branding into one visually striking composition.
+
+Main Concept:
+The poster should promote a large-scale interactive fitness carnival happening inside a futuristic shopping mall. Instead of focusing only on intense workouts, the design should emphasize fun, social interaction, entertainment, games, rewards, and community energy.
+
+Visual Style:
+
+Modern streetwear-inspired graphic design
+EDM festival atmosphere mixed with urban sports culture
+Bold asymmetrical layouts instead of traditional centered compositions
+Layered collage-style visuals with torn paper textures, paint splashes, motion streaks, glowing outlines, and graphic stickers
+Dynamic magazine-cover style arrangement
+High-energy typography inspired by music festivals and esports tournaments
+Trendy Gen-Z social media aesthetic
+Ultra-detailed and cinematic but playful at the same time
+
+Main Title Ideas (replace generic names):
+
+“FUEL THE FUN”
+“ENERGY RUSH”
+“MOVE MANIA”
+“PLAYGROUND XTREME”
+“LEVEL UP LIVE”
+“THE ACTIVE FEST”
+“BOOST MODE”
+“PLAY HARD CARNIVAL”
+
+Scene & Environment:
+
+Large modern shopping mall transformed into a colorful sports festival arena
+Giant LED screens, digital advertisements, glowing signs, escalators, pop-up activity booths, and interactive game stations
+Festival-style lighting with lasers, spotlights, smoke effects, and colorful reflections on polished floors
+Huge cheering crowd taking selfies, recording videos, dancing, and celebrating together
+Multiple activity zones spread across the mall
+
+Sports & Activity Areas:
+Show people actively participating in:
+
+basketball shootouts
+mini sprint races
+obstacle runs
+dance fitness battles
+reaction speed games
+tug-of-war
+battle ropes
+arcade-style fitness games
+cycling challenges
+trampoline fitness
+interactive motion sensor games
+
+Participants:
+
+Diverse group of teenagers, families, young adults, and fitness lovers
+People laughing, celebrating, high-fiving, and competing
+Stylish sporty streetwear outfits instead of generic gym clothing
+Dynamic action poses with motion blur and cinematic energy
+
+Rewards & Prize Section:
+
+Winners celebrating with oversized trophies, medals, shopping vouchers, mystery boxes, electronics, gift hampers, and gaming prizes
+Include premium-looking shopping bags and colorful prize booths
+Exciting lucky draw corner with spinning wheels and prize displays
+Showcase rewards like:
+Nintendo Switch
+wireless earbuds
+shopping vouchers
+fitness gadgets
+mall gift cards
+branded merchandise
+
+Typography & Graphics:
+
+Huge bold title with layered effects, glowing outlines, and graffiti-inspired textures
+Use diagonal text placements and overlapping typography for movement
+Add catchy event phrases like:
+“PLAY • WIN • CELEBRATE”
+“TURN ENERGY INTO REWARDS”
+“MOVE TO THE BEAT”
+“FITNESS MEETS FESTIVAL”
+“YOUR WEEKEND JUST LEVELED UP”
+Include trendy iconography, stickers, arrows, social media style overlays, and festival graphics
+
+Color Palette:
+Avoid repetitive dark neon-only colors. Instead use:
+
+vibrant cyan
+electric coral
+neon lime
+sunset orange
+hot pink
+bright purple
+metallic silver accents
+holographic gradients
+
+Lighting & Effects:
+
+Cinematic sports lighting
+Dynamic shadows and reflections
+Motion blur effects
+LED glow and holographic lighting
+Confetti explosions and energy particles
+Urban night-festival atmosphere
+
+Mood:
+
+Fun and addictive
+Youthful and trendy
+Social and community-focused
+Competitive but welcoming
+Festival excitement mixed with fitness culture
+
+Quality & Rendering:
+ultra-detailed, cinematic composition, photorealistic people, futuristic event branding, modern sports festival aesthetic, premium mall event poster, vibrant lighting, dynamic action, 4K quality, highly detailed textures, energetic urban atmosphere.
