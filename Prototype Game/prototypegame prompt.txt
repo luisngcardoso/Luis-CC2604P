@@ -1,0 +1,60 @@
+PROMPT: make me a prototype game for this activity. This is a real life game, so talk about the rules etc
+
+
+## 🏃‍♂️ Game Blueprint: "The Inferno Relay"
+
+### **The Concept**
+
+Teams must work together to keep their "Flame" alive. Moving too fast causes the flame to burn out (fatigue/injury), while moving too slowly lets it fade. The goal is to accumulate the most points across a specialized warm-up challenge and a high-stakes track relay.
+
+---
+
+### **Phase 1: The "Spark" Stretching Challenge (Warm-Up)**
+
+Before anyone sprints, teams earn physical advantages for the main race by completing a synchronized stretching challenge.
+
+* **Setup:** Teams of 5–8 stand in a straight vertical line, spaced 3 feet apart.
+* **The Goal:** Pass a medicine ball (or basketball) from the front of the line to the back, and then forward again, using specific, slow stretch positions.
+* **The Rules:**
+1. **Round 1 (The Torch Twist):** Every player must keep their feet planted facing forward and twist their torso to hand the ball to the person behind them.
+2. **Round 2 (Over-Under):** The first player passes the ball *over* their head. The second player passes it *between* their legs. This pattern repeats to the back.
+3. **The Catch:** If anyone moves their feet or drops the ball, the "flame is snuffed," and the ball goes back to the front.
+
+
+* **The Reward:** The top three fastest teams to complete the stretching cycle cleanly earn **"Boost Tokens"** (head-starts or lane choice) for Phase 2.
+
+---
+
+### **Phase 2: The "Keep Burning" Main Track Event**
+
+This is a modified track relay that forces runners to regulate their speed and stamina.
+
+* **Setup:** A standard track loop or a marked field (e.g., a 200m or 400m perimeter). Each team has 4 runners positioned at standard relay exchange zones.
+* **The Equipment:** Instead of a baton, the "baton" is a **glowing LED wristband** or a bright red sash representing the "Flame."
+* **The Core Rule: The "Burn-Out" Zone**
+* Halfway through each lap, there is a 20-meter marked section called the **"Overdrive Zone."**
+* Inside this zone, runners **must sprint at 100% maximum capacity**.
+* Outside this zone, runners must maintain a **controlled, steady pace**. If a runner sprints outside the zone, their team gets a 5-second penalty ("burning out too early").
+
+
+* **The Exchange:** The handoff between runners must happen inside a 10-meter exchange box. The outgoing runner must start from a static, low-lunging stretch position—they cannot get a running start until the baton touches their hand.
+
+---
+
+## 📋 Organizer's Checklist & Rules Cheat Sheet
+
+Print this out for your referees and field marshals to keep the game running smoothly:
+
+| Rule Category | Instruction / Metric | Penalty for Breach |
+| --- | --- | --- |
+| **Phase 1 Sync** | Feet must remain glued to the grass during twists. | Ball returns to the front of the line. |
+| **Pacing Control** | Full sprinting is limited *strictly* to the designated Overdrive Zone. | +5 seconds added to total team time. |
+| **The Hand-Off** | Receiver must start from a low stretch stance until touched. | Retake the hand-off from a dead stop. |
+| **Winning Condition** | The team that crosses the final finish line with the lowest adjusted time wins. | N/A |
+
+---
+
+### **How to Hype the Crowd (MC Tips for the Game)**
+
+* **During Phase 1:** Walk among the teams. Call out the lines that look incredibly in sync: *"Look at Lane 3, perfect form, steady movement, keeping that spark alive!"*
+* **During Phase 2:** When runners hit the Overdrive Zone, scream into the mic: *"They've hit the zone! Let it burn! Speed up, speed up!"*
