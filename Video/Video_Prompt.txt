@@ -6,3 +6,7 @@ PROMPT: Participants gather at the event area inside the shopping mall, stretchi
 
 THIRD 10 SECOND VIDEO
 PROMPT: Competitors walk confidently onto the indoor running track inside the mall and prepare at the starting line. Close-up shots of running shoes, focused facial expressions, and hands touching the ground in sprint position. Countdown lights glowing, tension building, spectators gathering around the track, dramatic cinematic camera angles.
+
+FOURTH 10 SECOND VIDEO
+PROMPT: High-energy race scene with competitors sprinting intensely around the mall track trying to reach first place. Sweat, determination, fast motion shots, dynamic camera tracking alongside runners. Spectators on both sides cheering loudly, waving banners and clapping. Exciting sports commercial atmosphere, energetic lighting, realistic motion blur, cinematic action feel.
+
