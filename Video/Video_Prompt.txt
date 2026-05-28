@@ -10,3 +10,6 @@ PROMPT: Competitors walk confidently onto the indoor running track inside the ma
 FOURTH 10 SECOND VIDEO
 PROMPT: High-energy race scene with competitors sprinting intensely around the mall track trying to reach first place. Sweat, determination, fast motion shots, dynamic camera tracking alongside runners. Spectators on both sides cheering loudly, waving banners and clapping. Exciting sports commercial atmosphere, energetic lighting, realistic motion blur, cinematic action feel.
 
+FIFTH 10 SECOND VIDEO
+PROMPT: Top 3 winners standing proudly on a winners’ podium during the prize ceremony inside the mall. First place winner holding a Nintendo Switch prize, second place winner receiving a $300 Popular voucher, third place winner receiving a $100 Popular voucher. Confetti falling, photographers taking pictures, crowd applauding, bright celebratory lighting, emotional victory atmosphere.
+
