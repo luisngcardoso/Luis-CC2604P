@@ -13,3 +13,5 @@ PROMPT: High-energy race scene with competitors sprinting intensely around the m
 FIFTH 10 SECOND VIDEO
 PROMPT: Top 3 winners standing proudly on a winners’ podium during the prize ceremony inside the mall. First place winner holding a Nintendo Switch prize, second place winner receiving a $300 Popular voucher, third place winner receiving a $100 Popular voucher. Confetti falling, photographers taking pictures, crowd applauding, bright celebratory lighting, emotional victory atmosphere.
 
+SIXTH 10 SECOND VIDEO
+PROMPT: Families and participants happily leaving the shopping mall after the event, smiling, laughing, and talking together while carrying prizes and shopping bags. Warm sunset-style indoor lighting, joyful atmosphere, children excitedly running beside parents, final cinematic shot of the “KEEP BURNING” banner fading out as people walk away happily.
