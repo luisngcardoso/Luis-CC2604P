@@ -3,3 +3,6 @@ PROMPT: Wide cinematic shot of a busy shopping mall entrance filled with energet
 
 SECOND 10 SECOND VDIEO
 PROMPT: Participants gather at the event area inside the shopping mall, stretching and warming up before the race. People doing lunges, arm stretches, jogging in place, and laughing with teammates. Fitness instructors guiding the crowd. Bright sporty environment with colorful event booths, energetic atmosphere, realistic mall lighting, cinematic sports advertisement style.
+
+THIRD 10 SECOND VIDEO
+PROMPT: Competitors walk confidently onto the indoor running track inside the mall and prepare at the starting line. Close-up shots of running shoes, focused facial expressions, and hands touching the ground in sprint position. Countdown lights glowing, tension building, spectators gathering around the track, dramatic cinematic camera angles.
