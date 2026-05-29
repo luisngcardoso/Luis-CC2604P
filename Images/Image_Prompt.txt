@@ -1,4 +1,4 @@
-3 social media 
+4 social media 
 3 EDMS
 3 banners
 
@@ -38,6 +38,10 @@ Feature modern mall architecture in the background with large LED event screens,
 
 Add cinematic lighting, sharp focus on the runners in the foreground, depth of field, and vibrant blue tones to enhance the sporty atmosphere. Make the image ultra-realistic, high-resolution, professional photography style, with a wide-angle composition perfect for event promotion and social media engagement.”
 
+FOURTH IMAGE
+PROMPT: i am are hired by ABC Events as an intern and your task is to help in organising live events at shopping malls. generate 1 image of people running in the running track. This is for my social media
+
+2nd PROMPT: generate me a A futuristic neon-themed fitness event at night inside a shopping mall, featuring people running , dancing in a glow workout session, and using interactive fitness machines. The environment is filled with purple, blue, and neon pink lights instead of the usual orange theme. Digital LED floors glow beneath the participants while holographic fitness graphics float around the stage. Young adults wearing stylish sporty outfits laugh and compete in mini fitness challenges. Energetic nightclub atmosphere mixed with a modern sports festival, cinematic lighting, ultra-realistic details, vibrant colors, trendy social media campaign style, 4K resolution.
 
 BANNER:
 FIRST IMAGE
