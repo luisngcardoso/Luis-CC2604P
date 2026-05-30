@@ -1,6 +1,5 @@
 PROMPT: make me a prototype game for this activity. This is a real life game, so talk about the rules etc
 
-
 ## 🏃‍♂️ Game Blueprint: "The Inferno Relay"
 
 ### **The Concept**
